@@ -6,7 +6,7 @@
 - 🌱 TDD perferred
 - 🤔 I’m looking for help with ...
 - 💬 Find my self as passionate and enthusiatic coder
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Sense of humor
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
