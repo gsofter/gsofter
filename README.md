@@ -2,9 +2,8 @@
 
 
 - 🔭 Contributed to building open source packages with javascript and python
-- 👯 Adapted in team environment
+- 📉 Blockchain & Defi App development
 - 🌱 TDD perferred
-- 🤔 I’m looking for help with ...
 - 💬 Find my self as passionate and enthusiatic coder
 - ⚡ Fun fact: Sense of humor
 - :octocat:<a href="https://gist.github.com/gsofter" target="_blank"> gists :notebook_with_decorative_cover:</a>. Go check it out :)</h4>
