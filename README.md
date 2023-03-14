@@ -41,4 +41,4 @@
 ## About Me
 
 
-I'm a passionate🥇, creative🎨 and perceptive🔭 blockchain engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as blockchain technology💻 fascinates me. I'm always open to new ideas and opportunities.
+I'm a passionate🥇, creative🎨 and perceptive🔭 full-stack engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. I'm always open to new ideas and opportunities.
